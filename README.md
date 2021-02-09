@@ -4,13 +4,11 @@
 [I. Introducton](#modau)
 
 [II. Getting Start](#batdau)
-- [1. Step 1: BIOS setting](#step1)
-- [2. Step 2: Network adapter settings](#step2)
-- [3. Step 3: Check the power option](#step3)
-- [4. Step 4: Try Wake on Lan with WakeMeOnLan Soft](#step4)
-- [5. Step 5](#step5)
-- [6. Step 6](#step6)
-- [7. Step 7](#step7)
+- [Step 1: BIOS setting](#step1)
+- [Step 2: Network adapter settings](#step2)
+- [Step 3: Check the power option](#step3)
+- [Step 4: Try Wake on Lan with WakeMeOnLan Soft](#step4)
+
 
 [III. Summary](#Tongket)
 
