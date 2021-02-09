@@ -45,13 +45,17 @@
 <a name="step3"></a>
 ## Step 3: Check the power option:
 - 1: Open the Power Option item in control panel.
+<img src="https://i.imgur.com/8lZZvVU.png">
 - 2: Click the Choose what the power buttons do link.
+<img src="https://i.imgur.com/0hbvmnb.png">
 - 3: Click Change settings that are currently unavailable.
+<img src="https://i.imgur.com/zyGZTB5.png">
 - 4: Clear the Turn on fast startup(recommend) check box.
+<img src="https://i.imgur.com/22zu0T9.png">
 - 5: Click Save changes.
 After above setting, WOL function should work properly.
 
-<a name="step3"></a>
+<a name="step4"></a>
 ## Step 4: Try Wake on Lan with WakeMeOnLan Soft:
 - Right click on PC want wake up -- select Wake up selected Computers (or F8)
 <img src="https://i.imgur.com/EfOaYBa.png">
