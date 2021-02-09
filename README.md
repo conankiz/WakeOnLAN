@@ -27,6 +27,7 @@
 - 1: Power on the system.
 - 2: When POST screen is displaying then press the keyboard "Del" key to enter to the BIOS setting.
 - 3: Switch to Advanced page, select ACPI Configuration, change PCIE Devices Power On to Enabled.
+<img src="https://i.imgur.com/23LmO6s.png">
 - 4: Press "F10" key to save the BIOS setting and restart the system.
 
 <a name="step2"></a>
