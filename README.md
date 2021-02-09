@@ -4,10 +4,10 @@
 [I. Introducton](#modau)
 
 [II. Getting Start](#batdau)
-- [1. Step 1](#step1)
-- [2. Step 2](#step2)
-- [3. Step 3](#step3)
-- [4. Step 4](#step4)
+- [1. Step 1: BIOS setting](#step1)
+- [2. Step 2: Network adapter settings](#step2)
+- [3. Step 3: Check the power option](#step3)
+- [4. Step 4: Try Wake on Lan with WakeMeOnLan Soft](#step4)
 - [5. Step 5](#step5)
 - [6. Step 6](#step6)
 - [7. Step 7](#step7)
@@ -33,10 +33,14 @@
 <a name="step2"></a>
 ## Step 2:Network adapter settings:
 - 1: Start Windows and open Device Manager.
+<img src="https://i.imgur.com/Wm7GDjQ.png">
 - 2: Expand "Network adapter", right-click "Intel (R) I 211 Gigabit Network Connection", and click "Properties".
+<img src="https://i.imgur.com/OIbyh4K.png">
 - 3: Select the "Power Management" tab.
+<img src="https://i.imgur.com/S3ZA041.png">
 - 4: Please check "Enable computer to release standby state on this device".
 - 5: Next, click the "Advanced Settings" tab, select the "Wake on Magic Packet" from the "Property" column, confirm that the "Value" is "Enabled" and click the "OK" button.
+<img src="https://i.imgur.com/NFwkbvt.png">
 
 <a name="step3"></a>
 ## Step 3: Check the power option:
