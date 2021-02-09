@@ -55,6 +55,7 @@ After above setting, WOL function should work properly.
 
 <a name="step4"></a>
 ## Step 4: Try Wake on Lan with WakeMeOnLan Soft:
+- Download : https://www.nirsoft.net/utils/wake_on_lan.html
 - Right click on PC want wake up -- select Wake up selected Computers (or F8)
 <img src="https://i.imgur.com/EfOaYBa.png">
 <a name="tongket"></a>
